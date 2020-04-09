@@ -29,11 +29,11 @@ theme : https://github.com/Leo-Jo-My/luci-theme-Butterfly
 # luci-app-ssr-plus-Jo
    
 ## 使用方法
-    #下载源码
+    #下载源码,原作者删除，这里上传一个备份，主题包没有了
     
-    git clone https://github.com/Leo-Jo-My/luci-app-ssr-plus-Jo package/luci-app-ssr-plus-Jo
+    git clone https://github.com/esyp/luci-app-ssr-plus-Jo package/luci-app-ssr-plus-Jo
  
-    git clone https://github.com/Leo-Jo-My/my package/my  #依赖包
+    git clone https://github.com/eysp/my package/my  #依赖包
     
     git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly package/luci-theme-Butterfly #主题包
     
